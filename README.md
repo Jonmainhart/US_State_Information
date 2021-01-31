@@ -5,6 +5,6 @@ This repository contains a csv file with all 50 States and a folder with images 
 
 ## Easy Two Step Process
 1. Place the states.csv file and the folder containing the image files in the same directory as the lab.
-2. Parse the data according to the conventions of your chosen language.
+2. Brag to your friends about knowing what a peony looks like
 
 Happy Coding
